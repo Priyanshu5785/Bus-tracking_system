@@ -11,7 +11,7 @@ Stack: React + Vite, Leaflet/OpenStreetMap, Node.js + Express, Socket.io, MongoD
    cd client && npm install && npm run dev
 4. Open http://localhost:5173
 
-## Test logins (password: password123)
+## Test logins ( password: password123 )
 driver@college.edu, student@college.edu, admin@college.edu
 
 Open the driver in one browser window and the student in another to watch the bus move.
